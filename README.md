@@ -1,5 +1,5 @@
 # videoMaker
-#### Idea of ​​a tower defense game.
+#### Criar robô vídeo maker.
 - [x] especificar tarefas e escopo.
 ...
 - [ ] **orquestrador** 
