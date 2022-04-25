@@ -1,4 +1,4 @@
-# gameDev
+# videoMaker
 Idea of ​​a tower defense game.
 - [x] especificar tarefas e escopo.
 ...
