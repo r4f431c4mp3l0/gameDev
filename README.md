@@ -1,5 +1,5 @@
 # videoMaker
-Idea of ​​a tower defense game.
+###Idea of ​​a tower defense game.
 - [x] especificar tarefas e escopo.
 ...
 - [ ] **orquestrador** 
